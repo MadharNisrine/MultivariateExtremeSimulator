@@ -12,4 +12,4 @@ The code folder contain five notebooks:
 
 along with ***Utils_StochasticSimulation.py*** which contains some useful functions.
 
-The data necessary for executing certain notebooks is stored within the data folder.
+The data necessary for executing certain notebooks is stored within the data folder. The data used in the real data study were initially extracted from Yahoo Finance, and considered in *(Kiriliouk, A., Rootzén, H., Segers, J., & Wadsworth, J. L. (2019). Peaks over thresholds modeling with multivariate generalized Pareto distributions. Technometrics, 61(1), 123-135.)*
